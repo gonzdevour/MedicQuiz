@@ -27,6 +27,7 @@
 	<plugin name="cordova-plugin-media" />
 	<plugin name="cordova-plugin-statusbar" />
 	<plugin name="cordova-plugin-whitelist" />
+	<plugin name="cordova-build-architecture" />
 	<preference name="xwalkMultipleApk" value="true" />
 
 

@@ -29,7 +29,7 @@
 		{ "id": "cordova-plugin-whitelist", "version": null }
 	],
 	"android": {
-		"min": 14,
+		"min": 19,
 		"target": 21,
 		"plugins": []
 	},
